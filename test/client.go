@@ -13,7 +13,7 @@ import (
 
 	"github.com/cruisechang/nex"
 
-	"github.com/cruisechang/util/net"
+	"github.com/cruisechang/goutil/net"
 	gorillaWebsocket "github.com/gorilla/websocket"
 )
 
